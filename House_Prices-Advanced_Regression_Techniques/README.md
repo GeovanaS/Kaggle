@@ -1,5 +1,5 @@
 # House Prices - Advanced Regression Techniques
-Predict sales prices and practice feature engineering, RFs, and gradient boosting
+Predict sales prices and practice feature engineering, RFs, and gradient boosting.
 
 # Competition Description
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
@@ -15,8 +15,12 @@ Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarith
 The file should contain a header and have the following format:
 
 Id,SalePrice
+
 1461,169000.1
+
 1462,187724.1233
+
 1463,175221
+
 etc.
 
